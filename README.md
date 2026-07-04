@@ -52,36 +52,15 @@ and increasingly **AI agents** doing the deterministic, repeatable parts in the 
 
 ## 🧭 What I Build
 
-<table>
-<tr>
-<td width="50%">
-
-### Security
-
-- Web Security & Pentest
-- Business Logic Vulnerabilities
-- Source Code Auditing / White-box
-- Static Analysis (Semgrep, AST sinks)
-- Deserialization & Crypto-scheme Reversing
-- CVE Reproduction & Verification
-- AI-driven Security Automation
-
-</td>
-<td width="50%">
-
-### Systems & Engineering
-
-- Low-latency Rust services (tokio, gRPC)
-- Go backends (Fiber, GORM)
-- Solana / Web3 trading infrastructure
-- On-chain program & DEX reverse engineering
-- Multi-Agent / LLM tool-calling systems
-- Redis / PostgreSQL / SQLite data planes
-- Linux / Docker / self-hosted ops
-
-</td>
-</tr>
-</table>
+| 🛡️ Security | ⚙️ Systems & Engineering |
+| :-- | :-- |
+| Web Security & Pentest | Low-latency Rust services (tokio, gRPC) |
+| Business Logic Vulnerabilities | Go backends (Fiber, GORM) |
+| Source Code Auditing / White-box | Solana / Web3 trading infrastructure |
+| Static Analysis (Semgrep, AST sinks) | On-chain program & DEX reverse engineering |
+| Deserialization & Crypto-scheme Reversing | Multi-Agent / LLM tool-calling systems |
+| CVE Reproduction & Verification | Redis / PostgreSQL / SQLite data planes |
+| AI-driven Security Automation | Linux / Docker / self-hosted ops |
 
 ---
 

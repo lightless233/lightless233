@@ -52,36 +52,15 @@
 
 ## 🧭 我在做什么
 
-<table>
-<tr>
-<td width="50%">
-
-### 安全
-
-- Web 安全 & 渗透测试
-- 业务逻辑漏洞
-- 源码审计 / 白盒
-- 静态分析（Semgrep、AST sink）
-- 反序列化 & 加密方案逆向
-- CVE 复现与验证
-- AI 驱动的安全自动化
-
-</td>
-<td width="50%">
-
-### 系统 & 工程
-
-- 低延迟 Rust 服务（tokio、gRPC）
-- Go 后端（Fiber、GORM）
-- Solana / Web3 交易基础设施
-- 链上程序 & DEX 逆向
-- 多 Agent / LLM 工具调用系统
-- Redis / PostgreSQL / SQLite 数据层
-- Linux / Docker / 自托管运维
-
-</td>
-</tr>
-</table>
+| 🛡️ 安全 | ⚙️ 系统 & 工程 |
+| :-- | :-- |
+| Web 安全 & 渗透测试 | 低延迟 Rust 服务（tokio、gRPC） |
+| 业务逻辑漏洞 | Go 后端（Fiber、GORM） |
+| 源码审计 / 白盒 | Solana / Web3 交易基础设施 |
+| 静态分析（Semgrep、AST sink） | 链上程序 & DEX 逆向 |
+| 反序列化 & 加密方案逆向 | 多 Agent / LLM 工具调用系统 |
+| CVE 复现与验证 | Redis / PostgreSQL / SQLite 数据层 |
+| AI 驱动的安全自动化 | Linux / Docker / 自托管运维 |
 
 ---
 
