@@ -90,11 +90,11 @@ and increasingly **AI agents** doing the deterministic, repeatable parts in the 
 <tr>
 <td width="33%">
 
-### [GEYE](https://github.com/lightless233/geye)
+### [SignMe2](https://github.com/lightless233/sign-me-2)
 
-A faster GitHub monitor.
+A Burp Suite extension for custom request signing logic.
 
-Built for discovering sensitive information leaks and monitoring public GitHub exposure.
+Useful for testing APIs with dynamic signatures, tokens, and custom auth logic.
 
 </td>
 <td width="33%">
@@ -108,11 +108,13 @@ A study project around Java unserialize attack surfaces.
 </td>
 <td width="33%">
 
-### [SignMe2](https://github.com/lightless233/sign-me-2)
+### [GEYE](https://github.com/lightless233/geye)
 
-A Burp Suite extension for custom request signing logic.
+A faster GitHub monitor.
 
-Useful for testing APIs with dynamic signatures, tokens, and custom auth logic.
+Built for discovering sensitive information leaks and monitoring public GitHub exposure.
+
+**⚠️ Deprecated** — no longer functional after GitHub API changes.
 
 </td>
 </tr>

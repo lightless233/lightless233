@@ -90,11 +90,11 @@
 <tr>
 <td width="33%">
 
-### [GEYE](https://github.com/lightless233/geye)
+### [SignMe2](https://github.com/lightless233/sign-me-2)
 
-更快的 GitHub 监控工具。
+用于自定义请求签名逻辑的 Burp Suite 插件。
 
-用于发现敏感信息泄露、监控 GitHub 上的公开暴露面。
+适合测试带动态签名、Token、自定义鉴权逻辑的 API。
 
 </td>
 <td width="33%">
@@ -108,11 +108,13 @@ Java 反序列化漏洞研究的笔记与 PoC。
 </td>
 <td width="33%">
 
-### [SignMe2](https://github.com/lightless233/sign-me-2)
+### [GEYE](https://github.com/lightless233/geye)
 
-用于自定义请求签名逻辑的 Burp Suite 插件。
+更快的 GitHub 监控工具。
 
-适合测试带动态签名、Token、自定义鉴权逻辑的 API。
+用于发现敏感信息泄露、监控 GitHub 上的公开暴露面。
+
+**⚠️ 已失效** —— GitHub API 调整后该工具已无法正常使用。
 
 </td>
 </tr>
