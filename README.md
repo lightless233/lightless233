@@ -88,7 +88,7 @@ and increasingly **AI agents** doing the deterministic, repeatable parts in the 
 
 <table>
 <tr>
-<td width="50%">
+<td width="33%">
 
 ### [GEYE](https://github.com/lightless233/geye)
 
@@ -97,7 +97,7 @@ A faster GitHub monitor.
 Built for discovering sensitive information leaks and monitoring public GitHub exposure.
 
 </td>
-<td width="50%">
+<td width="33%">
 
 ### [Java-Unserialization-Study](https://github.com/lightless233/Java-Unserialization-Study)
 
@@ -106,25 +106,13 @@ Notes and PoCs for Java deserialization vulnerability research.
 A study project around Java unserialize attack surfaces.
 
 </td>
-</tr>
-
-<tr>
-<td width="50%">
+<td width="33%">
 
 ### [SignMe2](https://github.com/lightless233/sign-me-2)
 
 A Burp Suite extension for custom request signing logic.
 
 Useful for testing APIs with dynamic signatures, tokens, and custom auth logic.
-
-</td>
-<td width="50%">
-
-### CVE-2020-25396
-
-Reported & credited vulnerability contribution.
-
-Part of ongoing responsible-disclosure work to multiple SRCs.
 
 </td>
 </tr>
@@ -208,7 +196,7 @@ Web3 / Systems
 - Tooling for vulnerability discovery, sensitive-data monitoring, and pentest automation.
 - Multi-agent security systems that drive real tools under human review.
 - Reproduced CVEs and reversed undocumented crypto schemes in real-world codebases.
-- Reported vulnerabilities to multiple SRCs; CVE contributor (CVE-2020-25396).
+- Reported vulnerabilities to multiple security response centers (SRCs).
 
 ---
 

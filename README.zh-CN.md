@@ -88,7 +88,7 @@
 
 <table>
 <tr>
-<td width="50%">
+<td width="33%">
 
 ### [GEYE](https://github.com/lightless233/geye)
 
@@ -97,7 +97,7 @@
 用于发现敏感信息泄露、监控 GitHub 上的公开暴露面。
 
 </td>
-<td width="50%">
+<td width="33%">
 
 ### [Java-Unserialization-Study](https://github.com/lightless233/Java-Unserialization-Study)
 
@@ -106,25 +106,13 @@ Java 反序列化漏洞研究的笔记与 PoC。
 围绕 Java 反序列化攻击面的学习型项目。
 
 </td>
-</tr>
-
-<tr>
-<td width="50%">
+<td width="33%">
 
 ### [SignMe2](https://github.com/lightless233/sign-me-2)
 
 用于自定义请求签名逻辑的 Burp Suite 插件。
 
 适合测试带动态签名、Token、自定义鉴权逻辑的 API。
-
-</td>
-<td width="50%">
-
-### CVE-2020-25396
-
-已上报并获得署名的漏洞贡献。
-
-持续向多个安全应急响应中心（SRC）负责任披露工作的一部分。
 
 </td>
 </tr>
@@ -205,7 +193,7 @@ Web3 / 系统
 - 面向漏洞发现、敏感数据监控、渗透流程自动化的工具建设。
 - 在人工复核下驱动真实工具的多 Agent 安全系统。
 - 在真实代码库中复现 CVE、逆向未公开的加密方案。
-- 向多个 SRC 上报漏洞；CVE 贡献者（CVE-2020-25396）。
+- 向多个安全应急响应中心（SRC）上报漏洞。
 
 ---
 
